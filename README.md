@@ -1,95 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=190&section=header&text=Amir%20Girgis&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20AI%20Automation%20Builder%20%C2%B7%20Founder&descAlignY=58&descSize=17" alt="Amir Girgis header" />
-
-<a href="https://github.com/amir-girgis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+backend+systems+with+C%23+%26+ASP.NET+Core;Automating+business+workflows+with+AI;Founder+of+Market+Sphere+X;Represented+Egypt+at+TechSkills+Forum+2026" alt="Typing animation" />
-</a>
+<img src="assets/hero.svg" alt="Amir Girgis, C# and ASP.NET Core developer, AI automation builder, founder of Market Sphere X" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-girgis-9392aa340)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirgargas28@gmail.com)
-![Location](https://img.shields.io/badge/Giza%2C_Egypt-1F3A5F?style=for-the-badge&logo=googlemaps&logoColor=white)
+Backend developer building with **C# / ASP.NET Core** and **AI automation** that replaces manual work.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/amir-girgis-9392aa340)
+[![Email](https://img.shields.io/badge/Email-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:amirgargas28@gmail.com)
+
+<br/>
+
+<img src="assets/stats.svg" alt="8-person team led, 4 platforms integrated, 60+ students mentored, 2.5+ years delivering client projects" width="100%" />
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## `~/highlights`
 
-```csharp
-public class AmirGirgis : SoftwareDeveloper
-{
-    public string Role        => "Software Development Student & Founder";
-    public string Company     => "Market Sphere X";
-    public string Location    => "Giza, Egypt";
+| | |
+|:-:|---|
+| 🥇 | **Winner, Discovering Challenge** at TechSkills Forum 2026, representing Egypt on an international team from the Mediterranean region |
+| 🤖 | **AI Lead Qualification Platform** integrating Claude, Make, Airtable, and Telegram: scores and routes leads, drafts proposals behind a single human approval step |
+| 🎓 | **PHP Team Leader, Peer Mentor, and School Ambassador**, mentoring students in technical and professional development |
 
-    public string[] Builds    => new[] { "Backend apps", "AI automation workflows", "Business websites" };
-    public string[] Stack     => new[] { "C#", "ASP.NET Core", "EF Core", "SQL Server" };
-    public string[] Automates => new[] { "Claude", "Make", "Webhooks", "Airtable" };
+---
 
-    public string Currently   => "Sharpening ASP.NET Core and SQL Server through real projects";
-    public bool OpenToWork    => true;
-}
+## `~/about`
+
+```bash
+$ cat about.txt
+
+name       : Amir Girgis Mofid
+location   : Giza, Egypt
+role       : C# / ASP.NET Core developer, AI automation builder, founder
+company    : Market Sphere X (since March 2024)
+education  : Technical Diploma in Software Development, EVA International School of Applied Technology (expected 2027)
+languages  : Arabic (native), English (professional working)
+focus      : Sharpening ASP.NET Core and SQL Server through real projects
+status     : open to work
 ```
 
----
-
-## 🚀 What I do
-
 | | Focus | How |
-|---|---|---|
-| 🧩 | **Backend Development** | REST APIs and data-driven apps with C#, ASP.NET Core, Entity Framework Core, and SQL Server |
-| 🤖 | **AI Automation** | Lead scoring, routing, and proposal generation using Claude, Make, and webhooks |
-| 🌐 | **Web & Digital Solutions** | Responsive business websites, branding, and marketing for clients through Market Sphere X |
+|:-:|---|---|
+| 🧩 | **Backend development** | REST APIs and data-driven apps with C#, ASP.NET Core, Web API, MVC, Entity Framework Core, LINQ, and SQL Server |
+| 🤖 | **AI automation** | Lead scoring, routing, and proposal generation with Claude, Make, and webhooks, with a human approval step |
+| 🌐 | **Web and digital solutions** | Responsive business websites, branding, and social media strategy for clients |
 
 ---
 
-## 🛠️ Tech stack
+## `~/market-sphere-x`
+
+A digital agency delivering **websites, AI automation, and digital marketing** for clients. Founded in March 2024.
+
+- Lead an **8-person cross-functional team** (me included) covering web development, graphic design, video production, photography, AI automation, business development, and sales
+- Own the full client lifecycle across **4 stages**: requirements, timelines, expectations, and reporting
+- Design and deploy responsive business websites, and plan branding and social media strategies tied to each client's goals
+- Automate repetitive manual processes with AI workflows (Claude, Make, webhooks) to reduce clients' operational workload
+
+---
+
+## `~/stack`
 
 **Backend**  
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=csharp&logoColor=white&labelColor=0d1117)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1f6feb?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![Web API](https://img.shields.io/badge/Web_API-1f6feb?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![EF Core](https://img.shields.io/badge/EF_Core-1f6feb?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1f6feb?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117)
 
-**AI & Automation**  
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+**AI and automation**  
+![Claude](https://img.shields.io/badge/Claude-3fb950?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117)
+![Make](https://img.shields.io/badge/Make-3fb950?style=flat-square&logo=make&logoColor=white&labelColor=0d1117)
+![Airtable](https://img.shields.io/badge/Airtable-3fb950?style=flat-square&logo=airtable&logoColor=white&labelColor=0d1117)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-3fb950?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117)
 
-**Frontend, Design & Tools**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+**Tools**  
+![Git](https://img.shields.io/badge/Git-8b949e?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-8b949e?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-8b949e?style=flat-square&logo=visualstudio&logoColor=white&labelColor=0d1117)
+![Figma](https://img.shields.io/badge/Figma-8b949e?style=flat-square&logo=figma&logoColor=white&labelColor=0d1117)
 
----
-
-## 🏆 Highlights
-
-- 🥇 **Winner, Discovering Challenge** at TechSkills Forum 2026, representing Egypt on an international team
-- 🎓 **Mentored 60+ students** as PHP Team Leader and School Ambassador
-- 🏢 **Founder of Market Sphere X**, a digital agency covering development, design, and marketing
+<sub>**Also:** MVC, WPF, LINQ, REST APIs, Webhooks, Prompt Engineering, ChatGPT, HTML, CSS, OOP, Data Structures & Algorithms, Problem Solving, Software Testing, C++, SEO, Social Media, Brand Strategy</sub>
 
 ---
 
-## 📌 Featured projects
+## `~/education`
 
-> Pinned repositories appear right below this section. 👇
+**Technical Diploma in Software Development**, EVA International School of Applied Technology (expected 2027)
+
+<details>
+<summary><b>Relevant coursework</b></summary>
+<br/>
+
+| Area | Courses |
+|---|---|
+| Foundations | Operating Systems, Hardware, Programming Logic, C++, Software Testing |
+| Software engineering | OOP with C#, Data Structures & Algorithms, Problem Solving, Software Engineering & Documentation, Git & GitHub |
+| .NET and data | ASP.NET Core & Web API, MVC, WPF, LINQ & Entity Framework Core, SQL & Database Relationships, Databases |
+| Applied topics | Flutter, APIs, Embedded Systems, IoT, Multimedia, Software Modification & Development |
+
+</details>
+
+---
+
+## `~/leadership`
+
+- **School Ambassador, PHP Team Leader, Peer Mentor** at EVA International School of Applied Technology: mentored 60+ students in technical and professional development and represented the school in technology events
+- **TechSkills Forum 2026**: won the Discovering Challenge, recognized for innovation and teamwork
 
 ---
 
 <div align="center">
 
-### 📫 Let's build something together
+### `$ ./contact --open-to-work`
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-girgis-9392aa340)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirgargas28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/amir-girgis-9392aa340)
+[![Email](https://img.shields.io/badge/Send_an_Email-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:amirgargas28@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" alt="Footer wave" />
 
 </div>
