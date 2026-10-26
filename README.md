@@ -1,98 +1,109 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Amir Girgis, C# and ASP.NET Core developer, AI automation builder, founder of Market Sphere X" width="100%" />
+# Amir Girgis
 
-<br/>
+### C# / ASP.NET Core Developer &nbsp;·&nbsp; AI Automation Builder &nbsp;·&nbsp; Founder of Market Sphere X
 
 Backend developer building with **C# / ASP.NET Core** and **AI automation** that replaces manual work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/amir-girgis-9392aa340)
-[![Email](https://img.shields.io/badge/Email-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:amirgargas28@gmail.com)
+📍 Giza, Egypt &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 Open to work
 
-<br/>
-
-<img src="assets/stats.svg" alt="8-person team led, 4 platforms integrated, 60+ students mentored, 2.5+ years delivering client projects" width="100%" />
+**[📄 Download my CV](https://drive.google.com/file/d/1MY9YxF717GuJXISN8SHnz1fTMACswlWb/view?usp=sharing)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/amir-girgis-9392aa340)** &nbsp;·&nbsp; **[✉️ Email](mailto:amirgargas28@gmail.com)**
 
 </div>
 
----
+<br>
 
-## `~/highlights`
+> [!IMPORTANT]
+> 🥇 **Winner, Discovering Challenge** at TechSkills Forum 2026, representing Egypt on an international team from the Mediterranean region.
 
-| | |
-|:-:|---|
-| 🥇 | **Winner, Discovering Challenge** at TechSkills Forum 2026, representing Egypt on an international team from the Mediterranean region |
-| 🤖 | **AI Lead Qualification Platform** integrating Claude, Make, Airtable, and Telegram: scores and routes leads, drafts proposals behind a single human approval step |
-| 🎓 | **PHP Team Leader, Peer Mentor, and School Ambassador**, mentoring students in technical and professional development |
+<table align="center">
+  <tr>
+    <td align="center" width="200"><h2>8</h2>person team<br>I lead</td>
+    <td align="center" width="200"><h2>60+</h2>students<br>mentored</td>
+    <td align="center" width="200"><h2>2.5+</h2>years delivering<br>client projects</td>
+    <td align="center" width="200"><h2>1</h2>international<br>challenge won</td>
+  </tr>
+</table>
 
----
+<br>
 
-## `~/about`
+## 👨‍💻 About me
 
-```bash
-$ cat about.txt
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-name       : Amir Girgis Mofid
-location   : Giza, Egypt
-role       : C# / ASP.NET Core developer, AI automation builder, founder
-company    : Market Sphere X (since March 2024)
-education  : Technical Diploma in Software Development, EVA International School of Applied Technology (expected 2027)
-languages  : Arabic (native), English (professional working)
-focus      : Sharpening ASP.NET Core and SQL Server through real projects
-status     : open to work
-```
+I'm a software developer and the founder of **Market Sphere X**, a digital agency delivering websites, AI automation, and digital marketing for clients. I focus on **C# and ASP.NET Core** for backend work, and I use **AI tools like Claude and Make** to automate business workflows.
 
-| | Focus | How |
+I lead a cross-functional team, mentor students, and I'm currently sharpening ASP.NET Core and SQL Server through real projects.
+
+  </td>
+    <td width="40%" valign="top">
+
+**Role:** Backend Developer<br>
+**Company:** Market Sphere X<br>
+**Education:** Technical Diploma in Software Development, expected 2027<br>
+**Languages:** Arabic (native), English (professional)<br>
+**Status:** 🟢 Open to work
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+## 🚀 What I do
+
+| | Focus | What it covers |
 |:-:|---|---|
 | 🧩 | **Backend development** | REST APIs and data-driven apps with C#, ASP.NET Core, Web API, MVC, Entity Framework Core, LINQ, and SQL Server |
-| 🤖 | **AI automation** | Lead scoring, routing, and proposal generation with Claude, Make, and webhooks, with a human approval step |
+| 🤖 | **AI automation** | Replacing repetitive manual processes with Claude, Make, and webhooks |
 | 🌐 | **Web and digital solutions** | Responsive business websites, branding, and social media strategy for clients |
 
----
+<br>
 
-## `~/market-sphere-x`
+## 🏢 Market Sphere X
 
-A digital agency delivering **websites, AI automation, and digital marketing** for clients. Founded in March 2024.
+> [!NOTE]
+> A digital agency delivering **websites, AI automation, and digital marketing**. Founded in **March 2024**.
 
-- Lead an **8-person cross-functional team** (me included) covering web development, graphic design, video production, photography, AI automation, business development, and sales
+- Lead an **8-person cross-functional team** (me included), delivering client projects end to end
 - Own the full client lifecycle across **4 stages**: requirements, timelines, expectations, and reporting
 - Design and deploy responsive business websites, and plan branding and social media strategies tied to each client's goals
 - Automate repetitive manual processes with AI workflows (Claude, Make, webhooks) to reduce clients' operational workload
 
----
+<details>
+<summary><b>Team disciplines</b></summary>
+<br>
 
-## `~/stack`
+Web development · Graphic design · Video production · Photography · AI automation · Business development · Sales
 
-**Backend**  
-![C#](https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=csharp&logoColor=white&labelColor=0d1117)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1f6feb?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
-![Web API](https://img.shields.io/badge/Web_API-1f6feb?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
-![EF Core](https://img.shields.io/badge/EF_Core-1f6feb?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1f6feb?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117)
+</details>
 
-**AI and automation**  
-![Claude](https://img.shields.io/badge/Claude-3fb950?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117)
-![Make](https://img.shields.io/badge/Make-3fb950?style=flat-square&logo=make&logoColor=white&labelColor=0d1117)
-![Airtable](https://img.shields.io/badge/Airtable-3fb950?style=flat-square&logo=airtable&logoColor=white&labelColor=0d1117)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-3fb950?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117)
+<br>
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-8b949e?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-8b949e?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-8b949e?style=flat-square&logo=visualstudio&logoColor=white&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-8b949e?style=flat-square&logo=figma&logoColor=white&labelColor=0d1117)
+## 🛠️ Tech stack
 
-<sub>**Also:** MVC, WPF, LINQ, REST APIs, Webhooks, Prompt Engineering, ChatGPT, HTML, CSS, OOP, Data Structures & Algorithms, Problem Solving, Software Testing, C++, SEO, Social Media, Brand Strategy</sub>
+| Area | Technologies |
+|---|---|
+| **Backend** | `C#` `ASP.NET Core` `Web API` `MVC` `Entity Framework Core` `LINQ` `SQL Server` `WPF` |
+| **AI and automation** | `Claude` `ChatGPT` `Prompt Engineering` `Make` `Airtable` `Telegram Bot` `REST APIs` `Webhooks` |
+| **Frontend and design** | `HTML` `CSS` `Figma` |
+| **Core CS** | `OOP` `Data Structures & Algorithms` `Problem Solving` `Software Testing` `Operating Systems` `C++` |
+| **Tools** | `Git` `GitHub` `Visual Studio` `Software Documentation` |
+| **Marketing** | `SEO` `Social Media` `Brand Strategy` |
 
----
+<br>
 
-## `~/education`
+## 🎓 Education
 
-**Technical Diploma in Software Development**, EVA International School of Applied Technology (expected 2027)
+**Technical Diploma in Software Development**<br>
+EVA International School of Applied Technology &nbsp;·&nbsp; Expected 2027
 
 <details>
 <summary><b>Relevant coursework</b></summary>
-<br/>
+<br>
 
 | Area | Courses |
 |---|---|
@@ -103,22 +114,19 @@ A digital agency delivering **websites, AI automation, and digital marketing** f
 
 </details>
 
----
+<br>
 
-## `~/leadership`
+## 🤝 Leadership
 
-- **School Ambassador, PHP Team Leader, Peer Mentor** at EVA International School of Applied Technology: mentored 60+ students in technical and professional development and represented the school in technology events
+- **School Ambassador · PHP Team Leader · Peer Mentor**: mentored 60+ students in technical and professional development and represented the school in technology events
 - **TechSkills Forum 2026**: won the Discovering Challenge, recognized for innovation and teamwork
 
----
+<br>
 
 <div align="center">
 
-### `$ ./contact --open-to-work`
+### 📫 Let's work together
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/amir-girgis-9392aa340)
-[![Email](https://img.shields.io/badge/Send_an_Email-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:amirgargas28@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" alt="Footer wave" />
+**[📄 Download my CV](https://drive.google.com/file/d/1MY9YxF717GuJXISN8SHnz1fTMACswlWb/view?usp=sharing)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/amir-girgis-9392aa340)** &nbsp;·&nbsp; **[✉️ amirgargas28@gmail.com](mailto:amirgargas28@gmail.com)**
 
 </div>
